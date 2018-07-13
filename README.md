@@ -2,7 +2,7 @@
 [![license][license-badge]][LICENSE]
 
 ## Synoposis
-This is the code for stlouisshag.com an open source project to provide information about the swing dance, St. Louis Shag
+This is the code for [stlouisshag.com](http://stlouisshag.com) an open source project to provide information about the swing dance, St. Louis Shag
 
 ### Prerequisites
 This project requires Hugo.
