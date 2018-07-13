@@ -1,0 +1,7 @@
+baseURL = "http://stlouisshag.com/"
+languageCode = "en-us"
+title = "St Louis Shag"
+theme = "airspace-hugo"
+
+[params]
+dateformat = "July 13, 2018"
