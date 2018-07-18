@@ -3,5 +3,12 @@ languageCode = "en-us"
 title = "St Louis Shag"
 theme = "airspace-hugo"
 
+# The site's parameters
 [params]
-dateformat = "July 13, 2018"
+    dateformat = "July 13, 2018"
+    home = "Home"
+
+    [params.slider]
+    enable = true
+    title = "St. Louis Shag"
+    subtitle = "A swing era dance from St. Louis, Missouri"
