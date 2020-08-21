@@ -15,6 +15,6 @@ theme = "airspace-hugo"
 
     [params.wrapper]
     enable = true
-    title = "About This St. Louis Shag"
+    title = "About St. Louis Shag"
     italic = "St. Louis Shag has a long-standing history in St. Louis, where it has remained throughout many generations."
     paragraph = "These days it is danced world-wide from Dublin, Ireland to Herräng, Sweden. This website exists to become a resource for the education, preservation, and spread of this swing-era dance."
