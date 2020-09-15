@@ -1,6 +1,9 @@
 # StLouisShag.com
 [![license][license-badge]][LICENSE]
 
+## Running Project
+To run the project locally use `hugo server -D`
+
 ## Synoposis
 This is the code for [stlouisshag.com](http://stlouisshag.com) an open source project to provide information about the swing dance, St. Louis Shag
 
