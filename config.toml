@@ -3,9 +3,17 @@ languageCode = "en-us"
 title = "St Louis Shag"
 theme = "airspace-hugo"
 
+[menu]
+
+  [[menu.header]]
+    weight = 1
+    name = "History"
+    url = "/history"
+
 # The site's parameters
+
 [params]
-    dateformat = "July 13, 2018"
+    dateformat = "Oct. 5th, 2020"
     home = "Home"
 
     [params.slider]
