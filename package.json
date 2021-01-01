@@ -1,0 +1,24 @@
+{
+  "name": "st-louis-shag-website",
+  "version": "1.0.0",
+  "description": "Website for the dance St. Louis Shag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afs2015/st-louis-shag-website.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afs2015/st-louis-shag-website/issues"
+  },
+  "homepage": "https://github.com/afs2015/st-louis-shag-website#readme",
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.2",
+    "postcss-cli": "^8.3.1"
+  }
+}
