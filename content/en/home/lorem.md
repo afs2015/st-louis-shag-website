@@ -1,5 +1,5 @@
 ---
-title: "Lorem Ipsum"
+title: "Music"
 weight: 30
 ---
 
