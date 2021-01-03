@@ -1,0 +1,19 @@
+h1 {
+    color: #fff;
+    font-family: roboto, sans-serif;
+    font-weight: 100;
+    line-height: 60px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+.hero-body {
+    background-image: url("images/slider-bg.jpg");
+    background-position: 0% 15%;
+    background-size: cover;
+}
+
+.subtitle {
+    color: #fff;
+    font-family: roboto, sans-serif;
+}
