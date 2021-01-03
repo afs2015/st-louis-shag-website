@@ -1,17 +1,9 @@
 ---
 title: "About"
-image: "profile.jpg"
+image: "newspaper.png"
 weight: 8
 ---
 
-This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
+**St. Louis Shag** is an up-tempo partnered swing dance that emerged in St. Louis, Missouri during the mid-1930s.
 
-### Features
-
-* Responsive display on any size screen
-* Light and Dark themes right out of the box
-* Multilingual - supports side-by-side content in multiple languages
-* Any number of custom index page sections from Markdown files
-* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
-* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
-* Styled Markdown throughout with support for Hugo's syntax highlighting
+The primary step is an eight-count basic done side-by-side, which is augmented by rhythmic variations using kicks, stomps, cross-overs, quick steps, and brush-steps. Skilled partners will change positions from side-by-side to open, hand-to-hand, back-to-back, and front-to-back positions, as well as break away from one another. Historically, St. Louis Shag was not a stand-alone dance, but an element of the wider Lindy Hop or jitterbug styles featuring swingouts and acrobatics. As a derivative of 1920s partnered Charleston, Shag draws from African-American dance traditions that became an increasingly key aspect of nightlife in urban areas during the early 1900s. Shag dancers value individual expression and lead and follow teamwork.
