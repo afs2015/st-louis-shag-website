@@ -7,18 +7,18 @@
 This project uses the Hugo theme [Introduction](https://github.com/victoriadrake/hugo-theme-introduction/). To install it run the following two commands in order:
 
 ```sh
-`git submodule init`
+git submodule init
 ```
 
 ```sh
-`git submodule update`
+git submodule update
 ```
 
 ### Run Local Development Environment
-To run the project locally
+To run the project locally:
 
 ```sh
-`hugo server -D`
+hugo server -D
 ```
 
 ## Synoposis
