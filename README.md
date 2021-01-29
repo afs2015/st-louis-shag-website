@@ -7,7 +7,7 @@
 ## Running Project
 
 ### Prerequisites
-This project requires Hugo and the Hugo theme Introduction
+This project requires Hugo and the Hugo theme Introduction.
 
 ### Install Theme
 This project uses the Hugo theme [Introduction](https://github.com/victoriadrake/hugo-theme-introduction/). To install it run the following two commands in order:
