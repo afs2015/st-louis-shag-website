@@ -1,4 +1,7 @@
 # StLouisShag.com
+
+[StLouisShag.com][https://www.stlouisshag.com] is a website dedicated to the preservation and education of a form of swing dancing, St. Louis Shag.
+
 [![license][license-badge]][LICENSE]
 
 ## Running Project
