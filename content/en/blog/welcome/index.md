@@ -10,4 +10,4 @@ Welcome to a new website dedicated to the education, history, and preservation o
 <div style="text-align: center">
 Jam Circle at Nevermore Jazz Ball 2016 - Photo by Ben Hejkal</div><br>
 
-Taking inspiration from the website http://collegiateshag.com/ we intend stlouisshag.com to be a virtual resource to help new dancers who would like to learn the St. Louis Shag to experienced shag dancers and teachers who are looking to deepen their understanding of the history and cultural context of the dance.
+Taking inspiration from the website http://collegiateshag.com/ we intend stlouisshag.com to be a virtual resource to help new dancers who would like to learn St. Louis Shag to experienced shag dancers and teachers who are looking to deepen their understanding of the history and cultural context of the dance.
