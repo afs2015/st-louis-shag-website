@@ -1,5 +1,6 @@
 ---
 title: "Welcome to stlouisshag.com"
+author: "Andrew Selzer"
 date: 2021-01-19
 tags: ["swing dance","st louis shag"]
 ---
