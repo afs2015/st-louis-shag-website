@@ -3,6 +3,7 @@ title: "Before Shag They Danced Finale Hop, Flea Hop, and the St. Louis Hop Todd
 date: 2021-02-20T11:32:21-05:00
 author: 'Christian Frommelt'
 ---
+Author: Christian Frommelt.
 
 There is magic in performing swing dances in public. Inevitably, some audience members will themselves be dancers, or carry with them the legend of how their parents met dancing in one of the old ballrooms. In 2016 I performed with Jenny Shirar, Jenna Applegarth, and Eddie Rutland at Eden Seminary in St. Louis County for a concert series. After demonstrating several swing dance styles, including St. Louis Shag, two members of the audience approached me. They introduced themselves as Vernon and Marge Wagner and recalled their dancing years at the Casa Loma Ballroom. Then Vernon told me that they used to call St. Louis Shag the "Hop Toddle." The obscure term enchanted me, and this interaction remained vivid in my memory.
 
